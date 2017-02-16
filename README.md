@@ -1,5 +1,5 @@
 # Prisoners-Puzzle
-This is an Alloy module for the prisoners puzzle solution
+This is an Alloy module for the prisoners puzzle
 
 The warden of a prison gives his prisoners the following problem.
 There is a room in the prison with two switches, labeled A and B.
